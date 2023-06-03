@@ -15,7 +15,11 @@ https://ziglearn.org/  official quick start of Zig
 
 https://ziglang.org/learn/overview/
 
+https://zigbyexample.github.io/  https://github.com/zigbyexample/zigbyexample.github.io 
+
 https://ziglang.org/documentation/master/
+
+ 
 
 ## Zig video 
 https://www.youtube.com/watch?v=YXrb-DqsBNU Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022
