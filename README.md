@@ -1,1 +1,1 @@
-A minimal zig guide
+A minimal Zig guide
