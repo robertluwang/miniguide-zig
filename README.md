@@ -1,1 +1,1 @@
-# mini zig guide from dreamcloud
+A minimal zig guide
